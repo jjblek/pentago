@@ -6,7 +6,7 @@ import Quadrant from './Quadrant'
 import { useTheme } from '@emotion/react'
 
 export default function Board({start}) {
-    const theme = useTheme();
+    
     const { 
         currentTurn, 
         addMarble, 
