@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pentago/static/css/main.76933b69.css",
+    "main.js": "/pentago/static/js/main.01b4e299.js",
+    "static/js/787.64b1f5c4.chunk.js": "/pentago/static/js/787.64b1f5c4.chunk.js",
+    "static/media/Dosis-VariableFont_wght.ttf": "/pentago/static/media/Dosis-VariableFont_wght.0e7b67016bff1c785ebd.ttf",
+    "index.html": "/pentago/index.html",
+    "main.76933b69.css.map": "/pentago/static/css/main.76933b69.css.map",
+    "main.01b4e299.js.map": "/pentago/static/js/main.01b4e299.js.map",
+    "787.64b1f5c4.chunk.js.map": "/pentago/static/js/787.64b1f5c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76933b69.css",
+    "static/js/main.01b4e299.js"
+  ]
+}
